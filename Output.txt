@@ -1,0 +1,1028 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Target (TGT) Q1 2014 Results - Earnings Call Webcast | Seeking Alpha</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="P3P" content='CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"' />
+
+<script type='text/javascript'>
+try {
+  window.external.msSiteModeCreateJumplist('SeekingAlpha - Read, Decide, Invest.');
+  window.external.msSiteModeAddJumpListItem('Portfolio' ,
+  'http://seekingalpha.com/account/portfolio?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('Breaking News - Real-time stock market news updates' ,
+  'http://seekingalpha.com/news/all?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('Investment Ideas' ,
+  'http://seekingalpha.com/dashboard/investing_ideas?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('Income Investing, Retirement Investing and Dividend Stocks' ,
+  'http://seekingalpha.com/dashboard/investing_income?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('ETFs & Portfolio Strategy' ,
+  'http://seekingalpha.com/dashboard/etfs?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('Macro View, Market Economy' ,
+  'http://seekingalpha.com/dashboard/macro_view?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+  window.external.msSiteModeAddJumpListItem('My Email Alerts' ,
+  'http://seekingalpha.com/account/email_preferences?source=ie_task',
+  'http://static.cdn-seekingalpha.com/favicon.ico');
+} catch (ex) {
+}
+</script>
+<meta name="application-name" content="Seeking Alpha - Read, Decide, Invest."/>
+<meta name="msapplication-TileColor" content="#360000"/>
+<meta name="msapplication-TileImage" content="http://static.cdn-seekingalpha.com/images/media_kit/71cdea92-2dc1-419d-8d62-f68b74c1eda8.png"/>
+<meta name="msapplication-tooltip" content="Seeking Alpha - Read, Decide, Invest." />
+<meta name="msapplication-starturl" content="http://seekingalpha.com?source=ie_task" />
+<meta name="msapplication-task" content="name=Portfolio ;action-uri=http://seekingalpha.com/account/portfolio?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Breaking News - Real-time stock market news updates ;action-uri=http://seekingalpha.com/news/all?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Investment Ideas ;action-uri=http://seekingalpha.com/dashboard/investing_ideas?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Income Investing, Retirement Investing and Dividend Stocks ;action-uri=http://seekingalpha.com/dashboard/investing_income?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=ETFs & Portfolio Strategy ;action-uri=http://seekingalpha.com/dashboard/etfs?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=Macro View, Market Economy ;action-uri=http://seekingalpha.com/dashboard/macro_view?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<meta name="msapplication-task" content="name=My Email Alerts ;action-uri=http://seekingalpha.com/account/email_preferences?source=ie_task;icon-uri=http://static.cdn-seekingalpha.com/favicon.ico" />
+<!-- End IE9 Settings -->
+
+<meta property="fb:admins" content="100006791796236" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@sa_popular">
+<meta name="twitter:title" content="Target (TGT) Q1 2014 Results - Earnings Call Webcast">
+<meta name="twitter:description" content="">
+<meta name='twitter:image' content='http://static1.cdn-seekingalpha.com/images/users_profile/000/101/639/big_pic.png?1361390225'><link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search" />
+<meta name="description" content="" /><meta name="keywords" content="NYSE:TGT" /><meta name="news_keywords" content="TGT, Target Corporation, Services, Transcripts, Earnings, Webcast, United States, Discount Variety Stores" /><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.seekingalpha.com/article/2229123" /><meta name="syndication-source" content="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast"><script type="application/ld+json">{"@context":"http://schema.org","@type":"NewsArticle","headline":"Target (TGT) Q1 2014 Results - Earnings Call Webcast","url":"http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast","dateCreated":"2014-05-21T14:25:00Z","thumbnailUrl":"http://static3.cdn-seekingalpha.com/images/user/user_transcript_image.gif?1367495342","articleSection":"transcript ","creator":"transcript","keywords":[""]}</script><meta property="og:image" content="http://static.cdn-seekingalpha.com/uploads/2013/8/19/social_sa_logo.png" />
+<meta property="og:title" content="Target (TGT) Q1 2014 Results - Earnings Call Webcast" />
+<meta property="og:description" content="The following audio is from a conference call that will begin on May 21, 2014 at 10:30 AM ET. The audio will stream live while the call is active, and can be replayed upon its completion. If you would like to view a transcrip" />
+<link rel="canonical" href="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast" />
+<meta name='viewport' content='width=1240'>
+
+<script>
+  window.PAGE_START_TS = new Date().getTime(); //will be put in mone
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"c0370b1d43","applicationID":"334927,334928","transactionName":"cldeEUAJWgldEBsASkVRUwlXFRkWUA1D","queueTime":0,"applicationTime":46,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwUUUlVXAQEH"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<link href="http://static1.cdn-seekingalpha.com/stylesheets/packaged/performance_layout_packaged.css?1402221615" media="screen" rel="stylesheet" type="text/css" /><link href="http://static3.cdn-seekingalpha.com/stylesheets/packaged/performance_layout_b_packaged.css?1401965863" media="screen" rel="stylesheet" type="text/css" /><link href="http://static.cdn-seekingalpha.com/stylesheets/packaged/article_packaged.css?1401624377" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript">var siteon = false; var atest = true; var acounter = 0;</script>
+<script type="text/javascript" src="/javascripts/siteon.js"></script>
+<script type="text/javascript">
+  window.primaryMarketCap = 36552070080;
+  window.primaryTickerSlug = "tgt";
+  var users_on_site='3,435,594';
+  var user_cookie={};
+
+  function readCookie(name) {
+    var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + escape(name) + '=([^;\\s]*)'));
+    return (cookie ? unescape(cookie[2]) : null);
+  }
+
+  function addToCookie(key,value) {
+    var arr=user_cookie[key].split(',');
+    arr.push(value);
+
+    user_cookie[key]=arr.join(',');
+  }
+  if (document.location.protocol == "https:") {
+    document.write('<scr'+'ipt src="/account/no_cookie_key"></scri'+'pt>');
+  } else if (readCookie('user_cookie_key')) {
+    document.write('<scr'+'ipt src="http://static.cdn-seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
+  } else if (readCookie('user_id')) {
+    document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
+  }
+
+  var isThisMyFirstPV = false;
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8500672" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+  var is_pro = false;
+  if (document.location.protocol == "https:") {
+    document.write('<link rel="shortcut icon" type="image/ico" href="https://seekingalpha-a.akamaihd.net/favicon.ico" />')
+  } else {
+    document.write('<link rel="shortcut icon" type="image/ico" href="http://static.cdn-seekingalpha.com/favicon.ico" />')
+  }
+
+
+  var ASSET_HOSTS = ["http://static.cdn-seekingalpha.com","http://static1.cdn-seekingalpha.com","http://static2.cdn-seekingalpha.com","http://static3.cdn-seekingalpha.com"];
+
+  //retry loading siteon
+  if (!siteon) document.write('<'+'script type="text/javascript" src="/javascripts/siteon.js"><'+'/script>');
+</script>
+
+<script src="http://static3.cdn-seekingalpha.com/javascripts/packaged/common_packaged.js?1402230971" type="text/javascript"></script>
+<script src="http://static.cdn-seekingalpha.com/javascripts/packaged/common2_packaged.js?1401965859" type="text/javascript"></script>
+<script src="http://static2.cdn-seekingalpha.com/javascripts/packaged/coffee_packaged.js?1402221610" type="text/javascript"></script><script src="http://static3.cdn-seekingalpha.com/javascripts/packaged/common_article_packaged.js?1402318015" type="text/javascript"></script><script src="http://static.cdn-seekingalpha.com/memcached2/symbol_rt_data"></script>
+<script type="text/javascript" src="/javascripts/senna.js?body=1"></script>
+<script type="text/javascript" src="http://static.cdn-seekingalpha.com/experiment.js"></script>
+<script>
+  try{
+    new window.Senna(window.experiments || []).run()
+  } catch (e) {
+    Mone.event("error","senna","exception",{data:{exception: e.message}});
+  }
+</script>
+
+<script src="//partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
+<script>
+  if (SA.Data && SA.Data.Cache) {
+    var adata = SA.Data.Cache.get('campaign_content');
+  }
+  (function(){
+    var url='/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast';
+    if (location.pathname!=url){
+      if (window.history && history.replaceState) history.replaceState("", "", url+location.search);
+      else location.href=url+location.search;
+    }
+  })();
+</script>
+
+<script type="text/javascript">
+  if ((user_email_cookie=readCookie('user_email')) && user_email_cookie.indexOf('@gmail.com')!=-1) {
+    createCookie('user_email',(user_email_cookie.replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365);
+  }
+
+  if (typeof(readCookie) == "function" && readCookie('user_vocation')) {
+    createCookie('u_voc',readCookie('user_vocation'),3000);
+  }
+  if (readCookie('sapu') == "121") {eraseCookie('sapu');}
+  var user_cookie = user_cookie || {};
+  eraseCookie("__article_last_size");
+
+if (top.location.pathname == "/" && readCookie('user_id')==957061) {
+  var old_SADataCookies = SA.Data.Cookies.get;
+  SA.Data.Cookies.get = function(x){if (x=="user_following_users" || x=="user_watchlist_authors") return ""; else return old_SADataCookies(x);}
+}
+  try{(function(){
+    var uc=SA.Data.Cookies.get("user_cookie_key"), t=uc ? uc.match(/t=([0-9]+)/) : null;
+    if (t && t[1] < 1367771521) SA.Data.Cookies.set("user_cookie_key","");
+  })();} catch(e){}
+
+</script>
+
+
+<link rel='alternate' href='android-app://com.seekingalpha.webwrapper/http/seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast' />      <script type="text/javascript">
+  var adblock = false;
+  try{
+    GS_googleAddAdSenseService("ca-pub-1420150919334552");
+    GS_googleEnableAllServices();
+  } catch(e) {
+    adblock = true;
+    Mone.event("Exception","adsense1","adsense down");
+  }
+</script>
+<script type="text/javascript">
+  try{
+      GA_googleAddSlot_sa('transcript_120x30');
+    GA_googleFetchAds();
+  } catch(e) {
+    adblock = true;
+    Mone.event("Exception","adsense2","adsense down");
+  }
+</script>  </head>
+    <body class="stretch_bg">
+    <script>
+  var ms_slug = '';
+  var article_dashboards = '@sectors@';
+  var article_sectors_themes = '@transcripts@earnings@webcast@us@discount-variety-stores@services@article@';
+  var article_hidden_tags = '@@';
+  var ratings_hash={};
+  var ARTICLE_ID = 2229123;
+  var ARTICLE_TYPE = "standard";
+  var ARTICLE_LOCK = "";
+  var ARTICLE_IS_PRO = "false"
+  var author_slug = "sa-transcripts";
+  var author_id = "44211";
+  var pticker_for_ads = "tgt";
+  var time_left;
+  var lock_comments = false;
+  var machine_cookie = readCookie('machine_cookie');
+  var middle_version = ABTest.identity%10;
+  var isTranscript = false;
+  var author_tag_id = 96991;
+  var insight_sector = null;
+    var sector_name = "Services";
+    var sector_slug = "services";
+  try {
+    window.sessionStorage.setItem("/article/"+ARTICLE_ID, '1');
+  } catch (error) {}
+
+</script>
+
+<script>var mone_article_tags = "{tgt};;;{services};;;{transcripts,earnings,webcast,us,discount-variety-stores};;;{sa-transcripts}"</script><script>var ord = Math.floor(Math.random()*1000000000);</script>
+<span class="seeking_alpha_site_title">Seeking Alpha</span>
+<script type="text/javascript">
+  if (readCookie('sa_mobile') == '1') {
+    var aHTML =[];
+    aHTML.push('<div class="mobile_or_full_site">');
+      aHTML.push('<span class="mobile_site" onclick="eraseCookie(\'sa_mobile\');top.location.reload()">Click here to view mobile site</span>');
+      aHTML.push('<div class="cleaner"></div>');
+    aHTML.push('</div>');
+    document.write(aHTML.join(""));
+  }
+</script>
+<div id="header" class="not_logged_in header_nav">
+  <div id="logo_and_navigation" class="logo_and_primary_navigation">
+    <div id="comment_popup" style="position:relative; left:0; display:none">
+  <div id="popup_secondary">
+    <div id="inner_popup"></div>
+  </div>
+</div>    <span class="logo_old_h1"><a href="http://seekingalpha.com/" title="Seeking Alpha - Home Page" sasource="salogo"></a></span>
+    
+      <div class="item banner728x90" id='top_banner_728x90'>
+          <script type="text/javascript">
+            SA.Utils.Ads.add({el:$('top_banner_728x90'), HadCreated:false, size:'728x90', delta: null, NotSticky: true, info:'http://ad.doubleclick.net/N6001/adj/sek.earnings/articles;sz=728x90;x=x;tile=1;d=earnings;t=articles;aid=2229123;d=sectors;t=transcripts;t=earnings;t=webcast;t=us;t=discount-variety-stores;t=services;t=article;z=1;a=sa-transcripts;cnt=7;pr=tgt;s=tgt;'+dart_my_vocation_and_profiles()+'ord='+ord+'?', pos_key: 'sz=728x90,tile=1'});
+            SA.Utils.Ads.run();
+          </script>
+      </div>
+    
+  </div>
+  <div class='nav_container_wrap' id='nav_container_wrap'>
+  <div id="nav_container" headtab="">
+    <div id="navi_cont">
+      <ul id="navi" class="navi">
+        <li thistab='home' class="home">
+          <a href="http://seekingalpha.com/" sasource="headtabs" style="font-size: 14px">Home</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='portfolio' class="portfolios">
+          <a href="http://seekingalpha.com/account/portfolio" sasource="headtabs" style="font-size: 14px">My Portfolio</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='market_news'>
+          <a href="http://seekingalpha.com/news/all" sasource="headtabs" style="font-size: 14px">Breaking News</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='analysis'>
+          <a href="http://seekingalpha.com/analysis/all" sasource="headtabs" style="font-size: 14px">Latest Articles</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+        <li thistab='stocktalks'>
+          <a href="http://seekingalpha.com/stocktalks/all" sasource="headtabs" style="font-size: 14px">StockTalk</a>
+          <span class="navi_right_corner">|</span>
+        </li>
+
+        <li thistab='alerts'>
+          <a href="http://seekingalpha.com/real-time-alerts" sasource="headtabs" style="font-size: 13px">ALERTS</a>
+            <span class="navi_right_corner">|</span>
+          </li>
+          <li thistab='pro' class="pro_tab">
+            <a href="http://seekingalpha.com/account/pro" sasource="headtabs">PRO</a>
+          </li>
+        <li class="right_section">
+          <div id="user_settings_wrapper"></div>
+        </li>
+      </ul>
+    </div>
+  </div>
+    <div class="rta_nav">
+      <span class="rta_nav_wrap">
+        <div id="rta_nav_close" onclick="SA.Promotion.Sticky.hide()" class="close_rta">&nbsp;</div>
+        <div id="related_promo_container_rel_nav" class="rta_bottom" style="display:none">
+  <span class="title_wrap">
+    <div class="rta_bottom_title" id="related_promo_title_nav">This transcript was sent to <span id="promo_num_of_rta_rel_nav">13,411</span> people who get email alerts on <span class="replace_by_rel_slug">&nbsp;</span>.</div>
+      <div class="title_sec">Which cover: new articles | breaking news | earnings results | dividend announcements</div>
+  </span>
+  <div class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('rel_nav')">Get email alerts on <span class="replace_by_rel_slug">&nbsp;</span><span class='rta_bottom_arrow'> &raquo;</span></div>
+  <div class="m_pop point_left" id="promotion_box_rel_nav" style="display:none;"></div>
+</div>
+<div id="related_promo_container_no_rel_nav" class="rta_bottom newsletter" style="display:none">
+  <div class="rta_bottom_title">
+    This transcript was sent to <span id="dash_newsl_subscr_count_ph_nav">&nbsp;</span> people who get the  newsletter.
+    <span class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('no_rel_nav', null)">Get the  newsletter &raquo;</span>
+    <span id="promo_no_rel_loader_nav" style="display:none;"><img height="16" width="16" src="http://static3.cdn-seekingalpha.com/images/loader.gif" /></span>
+  </div>
+  <div class="m_pop" id="promotion_box_no_rel_nav" style="display:none;"></div>
+</div>
+                              </span>
+    </div>
+</div>
+
+  <script type="text/javascript">
+    SeekingAlpha.Initializer.LogAndRun(SA.Navigation.Top.init);
+  </script>
+</div>
+<div id="main_container" class="white_as_before ">
+    <script>
+      if( (window.screen.availWidth > 1260) || SA.Utils.Env.isIPad || SA.Utils.Env.isAndroid) $('main_container').addClassName('show_left_cont');
+    </script>
+   <div class='left_cont'>
+        <div class="stickyad_wrapper">
+          <div class="item banner160x600" id="fixed_banner160x600">
+          </div>
+        </div>
+    </div>
+  <div id="content_wrapper" class="article_pages" itemscope itemtype="http://schema.org/Article">
+    <img src="http://static.cdn-seekingalpha.com/images/universal/print_logo.png" width="48" height="20" id="print_seekingalpha_logo" />
+    <div class="cleaner"></div>
+    <div id="main_content" class="no_big_gaps_main_content">
+      <div id="" class="no_big_gaps_secondary_ads">
+        <div id='article_top_info'>
+    <a href='/author/sa-transcripts' sasource='auth_header_pic'><img id='author_info_img' class="author_img" align="center" src="http://static1.cdn-seekingalpha.com/images/users_profile/000/101/639/big_pic.png?1361390225"></a>
+    <div class='info_content'>
+      <div>
+        <a class='author_name' href='/author/sa-transcripts' id='author_info_name' rel='author' sasource='auth_header_name'>SA Transcripts</a>,
+          <a class='author_nick link' href="http://seekingalpha.com/analysis/transcripts/all" target='_blank' onclick='if (!/@seekingalpha.com/.test(SA.Data.User.email())) Mone.event("article", "auth_header_link", "44211", {data: {"url":"http://seekingalpha.com/analysis/transcripts/all","text":"Recent earnings call transcripts","name":"SA Transcripts","bio":"We cover over 5K calls/quarter"}})'>Recent earnings call transcripts</a>
+          <span class="clicks">(23,711 clicks)</span>
+      </div>
+      <div><span class='author_desc'>We cover over 5K calls/quarter</span></div>
+      <div>
+        <a href='/author/sa-transcripts' sasource='auth_header_profile' class="author_action">Profile</a><span class='sep'>|</span>
+        <span class='author_action' onclick='Messaging.sendMessagePopup("1aoxskmd")'>Send Message</span><span class='sep'>|</span>
+        <span id="msg_popup"></span>
+        <span id='follow_btn' class="follow_button_author" onclick="click_follow_author()"></span>
+        <span class='clicks'>(<span id='follow_clicks' class='follow_clicks_author'>2,035</span>)</span>
+        <span style="position:relative">&nbsp;<span id="follow_loader" class="follow_loader_author" style="display:none"></span></span>
+      </div>
+      <div id="notify_favorite_authors" class="clicks fl cb" style="display: none">(You’ll be notified by email with new articles from your favorite authors.)</div>
+      <div id="notify_favorite_authors_top" class="clicks fl cb" style="display: none"><span id="youwillreceive_top">You will now receive new articles by this author via email. </span> <span class="author_action" onclick="manage_your_settings()">Manage your settings &raquo;</span></div>
+      <div class='arr_up'></div>
+    </div>
+    <script>
+      if (isTranscript)
+        SA.Pages.Article.Follow.init('sa-transcripts');
+
+
+      Mone.articleAuthorLinkShown = true;
+
+      function manage_your_settings (){
+        location.href = "/user/" + User.id() + "/following";
+      }
+
+      function click_follow_author() {
+      if (User.isFollowAuthorABTest()){
+        ArticlePage.toogleFollowAuthor('article_auth_header');
+      } else {
+          unlock = null;
+          if(this.className == 'link linkfollow follow') {
+            Mone.event("auth_follow", "article_auth_header", "follow_author");
+            SA.Pages.Article.Follow.follow();
+          }
+          else if (this.className == 'link linkunfollow unfollow') {
+            Mone.event("auth_follow", "article_auth_header", "stop_follow_author");
+            SA.Pages.Article.Follow.unfollow();
+          }
+        }
+      }
+    </script>
+</div>
+
+
+
+      </div>
+      <div id="top_author_details">
+        <div id="article_header" class="article_content">
+  <div class="top_content">
+    <div id="page_header" class="page_header_email_alerts">
+      <h1>
+        <span itemprop="name">Target (TGT) Q1 2014 Results - Earnings Call Webcast</span>
+              </h1>
+      <div id="article_info">
+        <div class="article_info_pos">
+          <span>May. 21, 2014 10:25 AM ET</span>
+          <span class='print_hide'>&nbsp;|&nbsp;</span>
+          <span id='title_article_comments'></span>
+          <span class="print_hide"><span>About:</span> <span id='about_primary_stocks'><a href="/symbol/TGT" title='Target Corporation' sasource='article_primary_about_trc'>Target Corporation (TGT)</a></span></span>
+          <span class="author_name_for_print">by: SA Transcripts </span>
+          <span id="second_line_wrapper"></span>
+        </div>
+        <div class="article_disclosure">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cleaner"></div>
+      </div>
+      	      	      <div id="article_body_container" class="no_big_gaps_article_body_container" style="float:right;">
+        <div id="article_body" itemprop="articleBody">
+          <div class="cleaner"></div>
+          
+            <p>The following audio is from a conference call that will begin on May 21, 2014 at 10:30 AM ET. The audio will stream live while the call is active, and can be replayed upon its completion.</p> <script src="http://earningscast.com/events/f8194c344820440a2c62f2eb36cd6402/saembed.js" type="text/javascript"></script> If you would like to view a transcript of this call, please click <a href="http://seekingalpha.com/article/2231363-target-corporations-tgt-ceo-john-mulligan-on-q1-2014-results-earnings-call-transcript">here.</a>
+            <div id="article_source">Source: <a href="/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast?source=cc">Target (TGT) Q1 2014 Results - Earnings Call Webcast</a></div>
+          
+        </div>
+        <div id="article_follow_author_bottom" class="no_big_gaps_secondary_ads" style="display: none">
+          <div id="author_message_above" class="fwb fs13 fl mt25">Want more from this author? </div><div id="author_message_above2" class="fs13 fl mt25">&nbsp;Follow and be the first to know when they publish.</div>
+<div id='article_bottom_info'>
+    <img id='author_info_img' class="author_img" align="center" src="http://static1.cdn-seekingalpha.com/images/users_profile/000/101/639/big_pic.png?1361390225">
+    <div class='info_content'>
+      <div id="followContainerBtn" class="tc fl cp" style="height: 20px; background-color: #F87217; padding-right: 10px">
+        <span class="pr">&nbsp;<span id="follow_loader" style="display:none"></span></span>
+        <span id='follow_btn2' class="follow_button_author" onclick="ArticlePage.toogleFollowAuthor('article_bottom')" style="position:relative; bottom: -2px; color: white !important"></span>
+      </div>
+      <span class='clicks fl pr' style="top: 5px; left: 10px;">(<span id='follow_clicks' class='follow_clicks_author'>2,035</span> followers)</span>
+      <div><span class='author_desc fl cb'>We cover over 5K calls/quarter</span></div>
+      <div id="notify_favorite_authors_bottom" class="clicks fl cb mt3" style="display: none"><span id="youwillreceive_bottom">You will now receive new articles by this author via email. </span> <span class="author_action" onclick="manage_your_settings()">Manage your settings &raquo;</span></div>
+      <div class='arr_down'></div>
+    </div>
+    <script>
+      SA.Pages.Article.Follow.init('sa-transcripts');
+
+      function manage_your_settings (){
+        location.href = "/user/" + User.id() + "/following";
+      }
+    </script>
+</div>
+        </div>
+          <div id="pro_form_article_container">
+            <div id="pro_form_introduction"></div>
+            <div id="pro_form_a">
+  <div id="pro_form_container" class="pro_form_container_style" style="display:none;">
+    <div id='pro_form_main_title'>
+      <img id="pro_form_main_title_img" width="527px" height="35px" src="/images/pro/pro_logo_headline.png" />
+    </div>
+    <div id="pro_form_before_regsiter" class="pro_form_before_regsiter">
+      <div id='pro_form_secondary_title'>
+        <strong>Seeking Alpha PRO helps fund managers:</strong>
+      </div>
+      <div>
+        <ul id="pro_form_secondary_title_list">
+          <li style="margin-bottom:6px;">Research new investment ideas</li>
+          <li style="margin-bottom:16px;">Reduce risk</li>
+        </ul>
+      </div>
+      <div id="pro_form_third_title"><label>Find out if PRO is right for you:</label></div>
+      <form id="pro_contact_form" action="/account/pro/contact" method="post" onsubmit="return false;" style="margin-bottom:20px;">
+        <div id="pro_form_user_inputs_container">
+          <div class="user_input_space"><label class="form_input_label">Full Name</label><input id="fn_input" class="temp_contact_field" type="text" name="name" onkeydown="removeErrorMessage(this);"/><span id="name_error" name="name" class="pro_form_error_field" style="display:none"></span><br/></div>
+          <div class="user_input_space"><label class="form_input_label">Work Email</label><input id="work_email_input" emailautofill="on" class="temp_contact_field" type="text" name="email" onkeydown="removeErrorMessage(this);"/><span id="email_error" name="email" class="pro_form_error_field" style="display:none"></span><br/></div>
+          <div class="user_input_space"><label class="form_input_label">Phone</label><input id="phone_input" class="temp_contact_field" type="text" name="phone" onkeydown="removeErrorMessage(this);"/><span id="phone_error" name="phone" class="pro_form_error_field" style="display:none"></span><br/></div>
+          <div id="aum_container" class="user_input_last_space">
+            <label class="form_input_label" style="padding-top: 0px;margin-top:-2px;">AUM</label>
+            <select id="aum_select" class="aum_field temp_contact_field" name="aum" onchange="removeErrorMessage(this);">
+              <option value="">Select AUM</option>
+              <option value="0 - 100k">$0-100k</option>
+              <option value="100 - 500k">100-500k</option>
+              <option value="500k - 1M">500k-1M</option>
+              <option value="1 - 10M">1-10M</option>
+              <option value="10 - 50M">10-50M</option>
+              <option value="50 - 100M">50-100M</option>
+              <option value="100 - 250M">100-250M</option>
+              <option value="250 - 750M">250-750M</option>
+              <option value="750M - 1B">750M-1B</option>
+              <option value="1B+">1B+</option>
+            </select>
+            <span id="aum_error" name="aum" class="pro_form_error_field" style="display:none"></span>
+            <br/>
+            <span class="aum_full">(Assets under Management)</span>
+            <br/>
+          </div>
+        </div>
+        <input type="hidden" name="referrer" class="temp_contact_field" empty="Refferer Page" value="" />
+        <input id="lead_source" type="hidden" name="leadSource" class="temp_contact_field" empty="LeadSource" value="" />
+        <div style="display:none;" id="contact_error"></div>
+        <div id="submit_container">
+          <div style="width:150px;float:left;margin-right: 14px;" class="pro_blue_button" id="last_button" onclick="SA.Pages.Account.Pro.Promo.sendContact('errorsBesideDisplay', 'article')">
+            Contact Me
+          </div>
+          <div id="user_info_text">
+            <p>We only use your contact details to reply to your request for more information.<br/>We do not sell the personal contact data you submit to anyone else.</p>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div style="display:none;" id="pro_form_thanks_container" class="pro_form_thank_you_line_height_style">
+      <div id="pro_form_thanks_text_container">
+        <span style="font-weight:bold;">Thank you for your interest in Seeking Alpha PRO</span><br/>
+        <span>We look forward to contacting you shortly for a conversation.</span>
+      </div>
+      <div id="dfc" class="direct_phone_container" style="display:none;"></div>
+    </div>
+    <div id="pro_form_sign_in_container" style="display:none;">
+      <label>Already subscribed to PRO? <span onclick="open_header_log_in_popup_lightbox('headtabs_login',''); return false;" style="color: #024999;">Sign in here</span></label>
+    </div>
+  </div>
+</div>
+
+<script>
+  var show_additional_user_preferences = false;
+  if (candidate_reasons = SA.Pages.Account.Pro.Promo.isUserProCandidate()) {
+    if (!show_additional_user_preferences) {
+      $("aum_container").previousSiblings()[0].className = "user_input_last_space";
+    }
+    $("aum_container").remove();
+  } else {
+    Mone.event('pro','','aum_shown');
+  }
+</script>
+          </div>
+          <script>SA.Pages.Article.handleDisclosures();</script>
+        <div id="content_follow_up" class="underbar">
+            <div id="follow_wrap">
+                <div id="article_rta_bottom_container">
+                    <div id="insight_promo_dividends" class="rta_bottom insight_promo" style="display:none">
+    <a class="rta_bottom_lnk" href='/insight/investing-income' sasource='article_bottom'>Read more on Dividend Investing &raquo;</a>
+  </div>
+  <div id="insight_promo_alternative" class="rta_bottom insight_promo" style="display:none">
+    <a class="rta_bottom_lnk" href='/insight/alternative-investing' sasource='article_bottom'>Read more on Alternative Investing &raquo;</a>
+  </div>
+
+<div id="first_portfolio_unit_ref" style="display: none"> <div>
+  <table id="first_portfolio_unit" style="border-top: 1px solid #DDD; padding-bottom: 7px !important; padding-top: 4px;">
+    <thead><tr><th class="fs12">Symbol</th><th class="tr fs12">Price</th><th class="tr fs12">% Chg</th><th></th><th class="tc fs12">Remove</th><th></th></thead>
+    <tbody>
+         <tr id="first_portfolio_unit_cell0" class="mb10">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input0" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price0" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change0" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button0" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell0')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+        <tr id="first_portfolio_unit_cell1" class="mb10 b-light-gray2">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input1" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price1" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change1" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button1" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell1')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+         <tr id="first_portfolio_unit_cell2" class="mb10">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input2" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price2" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change2" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button2" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell2')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+        <tr id="first_portfolio_unit_cell3" class="mb10 b-light-gray2">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input3" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price3" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change3" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button3" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell3')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+         <tr id="first_portfolio_unit_cell4" class="mb10">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input4" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price4" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change4" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button4" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell4')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+        <tr id="first_portfolio_unit_cell5" class="mb10 b-light-gray2">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input5" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price5" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change5" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button5" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell5')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+         <tr id="first_portfolio_unit_cell6" class="mb10">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input6" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price6" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change6" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button6" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell6')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+        <tr id="first_portfolio_unit_cell7" class="mb10 b-light-gray2">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input7" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price7" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change7" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button7" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell7')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+         <tr id="first_portfolio_unit_cell8" class="mb10">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input8" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price8" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change8" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button8" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell8')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+        <tr id="first_portfolio_unit_cell9" class="mb10 b-light-gray2">
+        <td style="width: 25%"><input id="first_portfolio_symbol_input9" class="fpu_input" placeholder="Type Ticker" maxlength="9"></td>
+        <td style="width: 22%" id="first_portfolio_unit_symbol_price9" class="tr fs12">-</td>
+        <td style="width: 20%" id="first_portfolio_unit_symbol_price_change9" class="tr fs12">-</td>
+        <td style="width: 13%">&nbsp;</td>
+        <td style="width: 7%" ><span id="first_portfolio_unit_symbol_price_remove_button9" class="remove_btn" onclick="SA.Units.Portfolio.First_portfolio_unit.removeSymbol('first_portfolio_unit_cell9')"></span></td>
+        <td style="width: 13%">&nbsp;</td>
+        </tr>
+    </tbody>
+  </table>
+</div>
+<script>SA.Units.Portfolio.First_portfolio_unit.init('first_portfolio_symbol_input',10, 'article Register')</script>
+</div>
+<div id="related_promo_container_rel" class="rta_bottom" style="display:none">
+  <span class="title_wrap">
+    <div class="rta_bottom_title" id="related_promo_title">
+      This article was sent to 
+      <span id="promo_num_of_rta_rel">13,411</span>
+      people who get email alerts on 
+      <span class="replace_by_rel_slug">&nbsp;</span>.
+    </div>
+  </span>
+  <div class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('rel');">
+    Get email alerts on <span class="replace_by_rel_slug">&nbsp;</span><span class='rta_bottom_arrow'> &raquo;</span>
+  </div>
+  <div class="m_pop point_left" id="promotion_box_rel" style="display:none;"></div>
+</div>
+
+
+
+<div id="related_promo_container_no_rel" class="rta_bottom newsletter" style="display:none">
+  <div class="rta_bottom_title">
+    This article was sent to
+    <span id="dash_newsl_subscr_count_ph">
+      &nbsp;
+    </span> people who get the  newsletter.
+    <span class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('no_rel', null)">
+      Get the  newsletter &raquo;
+    </span>
+    <span id="promo_no_rel_loader" style="display:none;"><img height="16" width="16" src="http://static3.cdn-seekingalpha.com/images/loader.gif" /></span>
+  </div>
+  <div class="m_pop" id="promotion_box_no_rel" style="display:none;"></div>
+</div>
+<div class="fl mb10" id="roadblock_comment_unit" style="display:none">
+  <div class="comments_top_area">
+    <div class="comments_top_area_half">
+      <div class="comments_top_area_add"><strong>Comments</strong>
+      	<span id="general_comment_counter">(<span id="comments_block"></span>)</span>
+      </div>
+    </div>
+    <div style="color:#FF6F00">
+      This article has&nbsp;
+      <span id="comments_block2"></span>
+      &nbsp;comments. To read them or add your own, <a href="javascript:void(0)" onclick="rb=new roadblock('article crb');rb.register_show=comments_reg_show;comments_reg_show()">click here</a>.
+    </div>
+  </div>
+</div>
+
+<div id="portfolio_unit" style="display:none">
+  <div id="portfolio_list_title" class="fwb fl mt3">PORTFOLIO</div>
+<select id="portfolio_list" class="portfolio_list fl ml20" onchange="SA.Units.Portfolio.select(this)"></select>
+
+<div class="cb"></div>
+
+<table id="portfolio_table" class="portfolio_table fl mt20">
+  <thead class="db pr"><tr><th class="symbol">Symbol</th><th class="tc" style="width: 735px"></th><th class="portfolio_unit_price">Alerts</th><th class="portfolio_unit_price">Price</th><th class="portfolio_unit_price">Chg</th><th class="portfolio_unit_price">% Chg</th></tr></thead>
+  <tbody class="db" id="portfolio_table_body"></tbody>
+</table>
+
+<div class="cb"></div>
+
+<div id="portfolio_stocks_container" class="fl mt20">
+  <div class="fl pr">
+    <input type="text" id="portfolio_stocks_input" class="add_stock_text" placeholder="example: GLD, GOOG" style="height: 18px;" />
+  </div>
+  <span id="portfolio_stocks_btn" class="portfolio_stocks_btn ml5" onclick="SA.Units.Portfolio.addStocks()">Add Stocks</span>
+  <span id="portfolio_stocks_error" class="portfolio_stocks_error" style="display:none"></span>
+</div>
+
+<div class="cb"></div>  <div class="mt20"></div>
+  <div id="recommendation_unit" style="display:none" class="fl w100">
+  <div class="mt10 ml10"><div class="fwb fl">New!</div><div class="fl ml5">Follow these related stocks</div></div>
+  <div class="cb"></div>
+  <div id="recommendation_buttons" class="ml6 mb10"></div>
+  <div class="cb"></div>
+  <div class="roy-gray fs12 mt10 ml10 mb10">(Click to add stocks to your portfolio)</div>
+</div></div>
+
+<img src="http://nxist.appledashboard.com/cimages/ads_1.jpg" id="adsimage" width="0" height="0"/>
+
+                </div>
+                <div id="article_rta_middle_container" style="display:none">
+                  <div id="related_promo_container_rel2" class="rta_bottom" style="display:none">
+  <span class="title_wrap">
+    <div class="rta_bottom_title" id="related_promo_title2">
+      <span id="promo_num_of_rta_rel2">
+         13,411
+      </span>
+         &nbsp;people received this article by email alert
+         <span id="second_line_midelena"><br />Add your email to get alerts on <span class="replace_by_rel_slug">&nbsp;</span> too:</span>
+    </div>
+  </span>
+  <div id="no_checkbox_midelena"><div class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('rel2')">Get email alerts on <span class="replace_by_rel_slug">&nbsp;</span><span class='rta_bottom_arrow'> &raquo;</span></div></div>
+  <div class="m_pop point_left" id="promotion_box_rel2" style="display:none;"></div>
+</div>
+<div id="related_promo_container_no_rel2" class="rta_bottom newsletter" style="display:none">
+  <div class="rta_bottom_title">
+    This transcript was sent to <span id="dash_newsl_subscr_count_ph2">&nbsp;</span> people who get the  newsletter.
+    <span class="rta_bottom_lnk" onclick="SA.Pages.Article.relatedPromoAction('no_rel2', null)">Get the  newsletter &raquo;</span>
+    <span id="promo_no_rel_loader2" style="display:none;"><img height="16" width="16" src="http://static3.cdn-seekingalpha.com/images/loader.gif" /></span>
+  </div>
+  <div class="m_pop" id="promotion_box_no_rel2" style="display:none;"></div>
+</div>
+
+                </div>
+              <div id="article_tags" style="display:none">
+                <div itemprop="articleSection" class="tagged_with">
+                  <span class="tagged_with_label">Tagged: </span><a href='/analysis/sectors/services' sasource='article_navigation'>Services</a>, <a href='/articles?filters=discount-variety-stores' sasource='article_navigation'>Discount, Variety Stores</a>, <a href='/articles?filters=earnings' sasource='article_navigation'>Earnings</a>, <a href='/analysis/transcripts/all' sasource='article_navigation'>Transcripts</a>, <a href='/articles?filters=webcast' sasource='article_navigation'>Webcast</a>
+                </div>
+              </div>
+              <div class="share_this_page_article_bottom">
+                <div id="share_unit">
+  <div class="fwb fl mt3">Share this article with a colleague</div>
+  <div class="ml35 fl">
+
+    <!-- Email -->
+      <div class="share_button" id="email_share" style="overflow: visible;">
+          <span class="email_this" onclick="email_story_to_friends('Article',2229123,'http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast')">
+            <div class="email_button"></div>
+          </span>
+      </div>
+
+    <!-- twitter -->
+    <div  class="share_button" id="twitter_share">
+      <span class="twitter_small" style="overflow:hidden">
+        <a href="https://twitter.com/share" class="twitter-share-button twitter_share" data-via="salphatrending" data-related="salphatrending" data-count="none">Tweet</a>
+      </span>
+    </div>
+
+    <!-- facebook -->
+    <div  class="share_button" id="facebook_share">
+      <!--div class="fb-share-button" data-href="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast?source=facebook" data-type="button"></div-->
+      <div class="fb-like" data-href="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast?source=facebook" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+    </div>
+
+    <!-- Linked In -->
+    <div class="share_button" id="linkedin_share">
+       <span id="linkedin_" class="linkedin_small linkedin_share"><script type="IN/Share" data-counter="none" data-onsuccess="linkedin_callback" data-url="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast?source=linkedin_share"></script></span>
+    </div>
+
+    <!-- Plusone  -->
+    <div  class="share_button" id="plus_share">
+      <span id="pluszone" class="plusone_wrap"><span class="plusone plusone_share"><div class="g-plusone" data-size="medium" data-annotation="none" data-width="65" data-callback="plusone_callback" data-href="http://seekingalpha.com/article/2229123-target-tgt-q1-2014-results-earnings-call-webcast?source=gplus"></div></span></span>
+    </div>
+
+    <!-- print -->
+    <div  class="share_button" id="print_share">
+      <span class="print_this" onclick="print_article('with_comments')"><Print><div class="print_button"></div></span>
+    </div>
+
+  </div>
+
+  <div class="cb"></div>
+
+</div>
+              </div>
+              <div id="article_bottom_about" class="article_bottom_units"></div>
+              <div id="more_by_auth" class="more_by_auth"></div>
+              <div id="more_by_ticker"></div>
+              <div id="temporary_place_holder" class="mt10"></div>
+              <div class="cleaner"></div>
+            </div>
+            <div class="comments_with_more">
+              <div id="comments_section">
+              </div>
+            </div>
+          <div class="cleaner"></div>
+          <span class="article_submit_an_article_big" onclick="submit_your_article();"></span>
+        </div>
+      </div>
+    </div>
+    <div class="article_right_content">
+      <div class="search_box_container_isolated">
+  <div class="search_box">
+    <form id="search_box_sa_search" method="get" class="linktosym comp search" action="/search/" onsubmit="return false;">
+      <fieldset>
+        <input id="autocomplete_sa_search" class="input_text text" type="text" value="search by symbol, author, keyword..." size="25" autocomplete="off" onblur="if($$('.search_box'))$$('.search_box')[0].style.background='';this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="if($$('.search_box'))$$('.search_box')[0].style.background='#fff';this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue='eFind quotes, people, expressions, transcripts' title='search by symbol, author, keyword...' class="find_transcripts" />
+        <input type="button" class="search_button" value="" onclick="if ($('autocomplete_sa_search').value!=$('autocomplete_sa_search').title) AutoCompleteSAConfig.Packages.search.Find()" />
+      </fieldset>
+      <input type="hidden" name="source" value="search_general" />
+      <input type="hidden" id="autocomplete_sa_hidden_search" name="q" value="" />
+      <input type="hidden" name="cx" value="018269914407235029540:cdhc2yeo2ko" />
+      <input type="hidden" name="cof" value="FORID:11;NB:1" />
+      <input type="hidden" name="goto_search_tab" value="" />
+    </form>
+    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', { Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_018269914407235029540%3Acdhc2yeo2ko&lang=en"></script>
+  </div>
+</div>
+          <script>var page_ad_src = 'http://ad.doubleclick.net/N6001/adj/sek.earnings/articles;sz=300x251;x=x;tile=4;d=earnings;pos=b;t=articles;aid=2229123;d=sectors;t=transcripts;t=earnings;t=webcast;t=us;t=discount-variety-stores;t=services;t=article;z=1;a=sa-transcripts;cnt=7;pr=tgt;s=tgt;'+dart_my_vocation_and_profiles()+'ord='+ord+'?';</script>
+  <div id="ads_and_tools" class="article_sidebar_tools red_sidebar">
+    <div id="ads_stick">
+      <div class="item banner300x600">
+        <script>add_js_to_ad_call('http://ad.doubleclick.net/N6001/adj/sek.earnings/articles;sz=300x250,300x600;x=x;tile=2;d=earnings;pos=t;t=articles;aid=2229123;d=sectors;t=transcripts;t=earnings;t=webcast;t=us;t=discount-variety-stores;t=services;t=article;z=1;a=sa-transcripts;cnt=7;pr=tgt;s=tgt;'+dart_my_vocation_and_profiles()+'ord='+ord+'?');</script>
+      </div>
+        <div id="alternative_title_container" class="mini_category data_currencies_table" style="display:none">
+  <div class="sidebar_title_bk">
+    <span class="sidebar_title_text" id="article_alternative_title"></span>			
+  </div>
+  <div id="symbol_alternative_tags" class="symbol_alternative_tags"></div>
+  <div id="alternatives_pirsomet" class="alternatives_pirsomet" style="float:left;width:100%;"></div>
+      <script type="text/javascript">
+        ssga_always_display("transcript_120x30", "http://9nl.it/i3eb/");
+      </script>
+  <div class="cleaner"></div>
+</div>
+
+<script type="text/javascript">
+  symbol = "TGT";
+  new Ajax.Request('/articles/get_ajax_alternatives_by_symbol?symbol='+symbol, {
+    asynchronous:true,
+    evalScripts:true,
+    method:'get',
+    onComplete: function(transport) {
+      if (transport.status == 200 && transport.responseText != 'failed') {
+        response = transport.responseText.split("@@");
+        symbolZiignight = new Ziignight('', 'SAlternative',"","symbolZiignight","symbol_alternative_tags","ETF");
+        symbolZiignight.WorkJSON = eval(response[1]);
+        symbolZiignight.addETF = false;
+        symbolZiignight.pageType = 'Article';
+        symbolZiignight.selectedSymbol = symbol;
+        symbolZiignight.SAlternativePrint(-1,true);
+        symbolZiignight.InsertEtfAlternativeSymbol(response[0]);
+        $('article_alternative_title').innerHTML = response[0].toUpperCase() + " vs. ETF alternatives";
+        $("alternative_title_container").style.display = "";
+      }
+    }
+  });
+</script>
+
+
+      
+
+        <div id="article_sidebar" class="article_sidebar">
+          <div id="sidebar_down"><img src="http://static.cdn-seekingalpha.com/images/loader_recommended_articles.gif" width="64" height="64" class="loader"/></div>
+        </div>
+
+        <div class="cleaner"></div>
+        <div class="stickyad_wrapper">
+          <div class="item banner300x250" id="article_dart_sticky"></div>
+        </div>
+      <script>
+          SA.Utils.Ads.add({el:$('article_dart_sticky'), HadCreated:false, size:'300x250', delta:50, info:'http://ad.doubleclick.net/N6001/adj/sek.earnings/articles;sz=300x251;x=x;tile=4;d=earnings;pos=b;t=articles;aid=2229123;d=sectors;t=transcripts;t=earnings;t=webcast;t=us;t=discount-variety-stores;t=services;t=article;z=1;a=sa-transcripts;cnt=7;pr=tgt;s=tgt;'+dart_my_vocation_and_profiles()+'ord='+ord+'?'});
+      </script>
+  </div>
+  </div>
+<script>
+  if($$('#ads_stick .banner300x600')[0] && $('article_body').offsetHeight>2000) {
+    //2000px is my definition of short article. Although comments and bottom links would add more, we shouldn't rely on them.
+    if (SA.Data.User.loggedIn()) new stickyAd('ads_stick', {remove_stick_top: 650}).fixed_ads_init();
+  } else {
+    Mone.event("errors", "article", "too_short_for_sticky_sidebar", {data: {height: $('article_body').offsetHeight, url: location.pathname}});
+  }
+</script>
+  
+    </div>
+  </div>
+  <input id="short_url" type="hidden" value="http://seekingalpha.com/a/1bs03" />
+</div>
+
+<div id='footer_break'><div></div></div><div id="footer">
+  <div id="footernav">
+    <div class="footernav_left">
+      <a href="http://seekingalpha.com" class="footernav_logo"></a>
+      <div class="footernav_boards">
+        <div><span class="footer_title">TOP AUTHORS:</span>&nbsp;<a class="top_authors" href="http://seekingalpha.com/leader-board/opinion-leaders">The Opinion Leaders</a></div>
+        <div class='top_boards'>
+          <span class="footer_title">TOP USERS:</span>
+          <a href="http://seekingalpha.com/leader-board/top-stocktalkers">StockTalkers</a> <span class="fl_dash">|</span>
+          <a href="http://seekingalpha.com/leader-board/top-instablogs">Instablogs</a>
+        </div>    
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    
+     <div class="footernav_share_buttons">
+   <a href="https://www.facebook.com/Seekingalpha" class="share_btn fb" sasource="footer" target="_blank"></a>
+   <a href="https://twitter.com/SAlphaTrending" class="share_btn twitter" sasource="footer" target="_blank"></a>
+   <a href="https://plus.google.com/+seekingalpha" class="share_btn google" rel="publisher" sasource="footer" target="_blank"></a>
+    </div>
+    <div class="footernav_right">
+      <div class="footernav_links">
+        <a href="http://seekingalpha.com/apps" sasource="footer">Mobile Apps</a>&nbsp;&nbsp;|&nbsp;
+        <a class="small_rss" href="http://seekingalpha.com/page/feeds" sasource="footer">&nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://seekingalpha.com/sitemap" sasource="footer">Sitemap</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://seekingalpha.com/page/about_us" sasource="footer">About Us</a>&nbsp;&nbsp;|&nbsp;
+        <a href="http://seekingalpha.com/page/contact" sasource="footer">Contact Us</a>
+      </div>
+      <div class="footernav_more_links">
+        <a href="http://seekingalpha.com/page/terms-of-use" sasource="footer">Terms of Use</a> |
+        <a href="http://seekingalpha.com/page/privacy" sasource="footer">Privacy</a> |
+        <a href="http://www.xignite.com" rel="nofollow" target="_blank">Xignite quote data</a> |
+        <span>&#169; 2014 Seeking Alpha</span>
+      </div>
+      <div class="cleaner"></div>
+    </div>
+  </div>
+  <div class="cleaner"></div>
+</div>
+<script>
+  if (SA.Data.User.loggedIn() && is_pro) {
+    setProDashboardUrl($$('a[href="/dashboard/pro"]'));
+  }
+</script>  <script type="text/javascript">
+    function setAD(){
+      if($('fixed_banner160x600').select('iframe')[0]) return;
+      NEW_AD_DELTA = typeof(CHANGE_AD_DELTA) != "undefined" ? CHANGE_AD_DELTA : 0;
+      SA.Utils.Ads.add({el:$('fixed_banner160x600'), HadCreated:false, size:'160x600', delta:NEW_AD_DELTA, info:'http://ad.doubleclick.net/N6001/adj/sek.earnings/articles;sz=160x600;x=x;tile=3;d=earnings;t=articles;aid=2229123;d=sectors;t=transcripts;t=earnings;t=webcast;t=us;t=discount-variety-stores;t=services;t=article;z=1;a=sa-transcripts;cnt=7;pr=tgt;s=tgt;'+dart_my_vocation_and_profiles()+'ord='+ord+'?'});
+      Mone.article_shown_left_ad = true;
+    }
+    if((window.screen.availWidth > 1260) || SA.Utils.Env.isIPad || SA.Utils.Env.isAndroid) setAD();
+  </script>
+<script>
+  Event.observe(window, 'scroll', check_positions);
+  if (SA.Utils.SASource.match(/email/)) createCookie('camefromrta',true);
+  SA.Utils.wrapBigTables('article_body');
+
+  document.observe('dom:loaded', function(){
+    if ($('article_source')) {$('article_source').hide();}
+    SA.Pages.Article.primary = "tgt";
+    SA.Pages.Article.init({fullProSidebar: null});
+    if (typeof(propromotion) != "undefined") {propromotion();}
+
+    if (SA.Pages.Article.alpha_rich_article() || SA.Pages.Article.insiders_report_article()){
+      update_pro_tracker(0,1,0,0);
+    }
+
+    if (SA.Pages.Article.is_roadblock()){
+
+      rb = new roadblock('article');
+      rb.register_show = SA.Pages.Article.roadshow;
+      Mone.event(rb.type,rb.source,"Half Article");
+      SA.Pages.Article.cut_new();
+
+    }
+
+    if (/no_ads/i.test(window.location.href)) {SA.Pages.Article.strip_for_iframe()}
+
+  });
+
+    SeekingAlpha.Initializer.AddAfterLoad(function(){
+      SA.Pages.Article.articlePromo({"allSlugs":["tgt"],"primarySlug":"tgt","dashboard_id":null,"dashboard_title":null});
+    });
+  if(SA.Utils.Env.isAndroid && $(fixed_banner160x600)){$(fixed_banner160x600).addClassName('android')}
+  $$('#article_body>p').each(function(p){ if ((p.childNodes.length==1) && (p.firstChild.tagName=='STRONG' || p.firstChild.tagName=='B')) p.addClassName('title'); })
+</script>
+
+    <script src="http://static3.cdn-seekingalpha.com/javascripts/packaged/jspell_packaged.js?1401188330" type="text/javascript"></script>
+<link href="http://static.cdn-seekingalpha.com/stylesheets/packaged/footer_packaged.css?1401188348" media="screen" rel="stylesheet" type="text/css" /><div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="seekingalpha.com"></div>
+</div>
+<script type="text/javascript">
+  if(typeof (authors) == "undefined" || typeof (symbols) == "undefined")
+    load_remote_script("http://static.cdn-seekingalpha.com/javascripts/packaged/sa.js");
+  if(is_users_cookie_exists() && !cookieExists('tops') && typeof(tops) == "undefined")
+    load_remote_script("http://static1.cdn-seekingalpha.com/javascripts/tops.js?1396773683");
+  Mone.renderedParams = {};
+  SeekingAlpha.Initializer.AddAfterLoad(function(){SA.Performance.Utils.loadPrintStyle('http://static1.cdn-seekingalpha.com/stylesheets/print.css?t=1402318106')});
+
+  if (SA && SA.Data && SA.Data.User && SA.Data.User.loggedIn() && SA.Data.User.email() && SA.Data.User.email().match(/@seekingalpha.com/)){
+    try{$('user_settings_pop').children[0].insert("<li class='mt10'><a href='javascript:void(0)' onclick='switch_status()'>PRO ON / OFF</a></li>");}catch(e){}
+  }
+
+  function switch_status(){
+    new Ajax.Request('/authentication/get_menu', {
+      asynchronous:true,
+      method:'get',
+      onComplete: function(transport) {
+        eval(transport.responseJSON.code);
+      }
+    });
+  }
+
+  try{
+    if (!siteon) {
+      //temporary disabled until we'll decide on right wording
+      //document.body.appendChild(new Element('div', {id: 'outage_message'}).update('Most of Seeking Alpha is currently unavailable due to scheduled maintenance. Most published articles are still available for viewing. We apologize for any inconvenience.'));
+      $('user_settings_wrapper').hide();
+    }
+  } catch(e){}
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" width="0" height="0" />
+</noscript>
+<script src="http://static3.cdn-seekingalpha.com/javascripts/packaged/footer_packaged.js?1401697341" type="text/javascript"></script><div id="symbol_data_script_container"></div>
+<script type="text/javascript">
+SeekingAlpha.Initializer.onDOMLoad(function(){
+  if(SA.Pages && SA.Pages.Account && SA.Pages.Account.Portfolios){
+    var a = SA.Pages.Account.Portfolios.alertsTab;
+    SA.Pages.Account.Portfolios.alertsTab = function(b){if ($('ziignight_submit')) a(b);}
+  }
+});
+if (/\/account\/portfolio/.test(location.href)) {document.getElementsByTagName("html")[0].style.overflow = "auto"};
+if (!$("comment_form_wrapper") && /seekingalpha\.com\/currents\/post/.test(location.href) && $("ads_and_tools")){ $("ads_and_tools").style.position = 'absolute';$("ads_and_tools").style.top="60px";$("ads_and_tools").style.right="0";};
+</script>
+<style>
+.portfolio_news #content_wrapper .left_content .market_currents ul#mc_news li  .bullet{* position: static;* padding:0 6px 6px 1px;}
+</style>
+
+
+
+<div style="display: none">
+  <script>
+    /* <![CDATA[ */
+    var google_conversion_id = 976471699;
+    var google_conversion_label = "yEDNCN3OkAoQk43P0QM";
+    var google_custom_params = window.google_tag_params; //defined in google_conversion.js, footer package
+    var google_remarketing_only = true;
+    /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+</div>
+    <div class="cleaner"></div>
+  </body>
+</html>
